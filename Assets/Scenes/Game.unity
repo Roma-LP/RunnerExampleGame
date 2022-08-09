@@ -1899,6 +1899,8 @@ MonoBehaviour:
   _capacity: 5
   _enemyTemplates:
   - {fileID: 6838836530821354052, guid: 461b5c14467a2f24a8db227a9628b2b1, type: 3}
+  - {fileID: 8056430396366581003, guid: 186dedfc7586935449f12d8cecfc15c5, type: 3}
+  - {fileID: 7887769743184495758, guid: dd81257bb84c06543a10f425bf98980a, type: 3}
   _spawnPoints:
   - {fileID: 497301388}
   - {fileID: 1143591249}
